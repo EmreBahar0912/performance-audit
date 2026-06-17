@@ -1,4 +1,4 @@
-# Performance onderzoek - Eethuis Sinbad
+# Performance test - Eethuis Sinbad
 
 ## Testmethoden
 Er zijn drie verschillende tools gebruikt om de performance van sinbad-online.nl te meten. Elke tool hanteert een andere methode en geeft daardoor een ander perspectief.
