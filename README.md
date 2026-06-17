@@ -1,5 +1,7 @@
 # Performance test - Eethuis Sinbad
 
+<img width="1357" height="599" alt="image" src="https://github.com/user-attachments/assets/4debad8a-446a-42b8-bd3c-1ecaa2e8754b" />
+
 ## Testmethoden
 Er zijn drie verschillende tools gebruikt om de performance van sinbad-online.nl te meten. Elke tool hanteert een andere methode en geeft daardoor een ander perspectief.
 
